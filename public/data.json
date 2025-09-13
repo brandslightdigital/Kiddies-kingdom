@@ -2501,11 +2501,11 @@
     "inStock": true,
     "rating": 4.7,
     "reviews": 14,
-    "image": "/products/lili-butterfly.webp",
+    "image": "/products/lilifly.WEBP",
     "gallery": [
-      "/products/lili-butterfly.webp",
-      "/products/lili-butterfly2.webp",
-      "/products/lili-butterfly3.webp"
+      "/products/lilifly.WEBP",
+      "/products/lilifly2.WEBP"
+      
     ],
     "badges": [
       "Butterfly Design",
@@ -2580,12 +2580,10 @@
     "inStock": true,
     "rating": 4.7,
     "reviews": 12,
-    "image": "/products/roundchair.webp",
+    "image": "/products/chairwithtable.WEBP",
     "gallery": [
-      "/products/roundchair.webp",
-      "/products/roundchair2.webp",
-      "/products/roundchair3.webp",
-      "/products/roundchair4.webp"
+      "/products/chairwithtable.WEBP"
+     
     ],
     "badges": [
       "MDF",
@@ -2667,11 +2665,11 @@
     "inStock": true,
     "rating": 4.7,
     "reviews": 0,
-    "image": "/products/batmanchair.webp",
+    "image": "/products/batmanchair.WEBP",
     "gallery": [
-      "/products/batmanchair.webp",
-      "/products/batmanchair2.webp",
-      "/products/batmanchair3.webp"
+      "/products/batmanchair.WEBP",
+      "/products/batmanchair2.WEBP"
+   
     ],
     "badges": [
       "Themed Design",
@@ -2821,10 +2819,10 @@
     "inStock": true,
     "rating": 4.7,
     "reviews": 0,
-    "image": "/products/roundtable.webp",
+    "image": "/products/roundtable.WEBP",
     "gallery": [
-      "/products/roundtable.webp",
-      "/products/roundtable2.webp"
+      "/products/roundtable.WEBP",
+      "/products/roundtable2.WEBP"
     ],
     "badges": [
       "Round Table",
@@ -3107,10 +3105,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 19,
-    "image": "/products/toolkit.webp",
+    "image": "/products/toolkit.jpg",
     "gallery": [
-      "/products/toolkit.webp",
-      "/products/toolkit2.webp"
+      "/products/toolkit.jpg",
+      "/products/toolkit2.jpg"
     ],
     "badges": [
       "Wooden Toy",
@@ -3242,10 +3240,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/dentalset.webp",
+    "image": "/products/dentalset.jpg",
     "gallery": [
-      "/products/dentalset.webp",
-      "/products/dentalset2.webp"
+      "/products/dentalset.jpg",
+      "/products/dentalset2.jpg"
     ],
     "badges": [
       "Wooden Toy",
@@ -4017,10 +4015,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/blocks.webp",
+    "image": "/products/blocks.JPG",
     "gallery": [
-      "/products/blocks.webp",
-      "/products/blocks2.webp"
+      "/products/blocks.JPG",
+      "/products/blocks2.PNG"
     ],
     "badges": [
       "Montessori",
@@ -4173,10 +4171,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/pinktower.webp",
+    "image": "/products/Pink Tower1.PNG",
     "gallery": [
-      "/products/pinktower.webp",
-      "/products/pinktower2.webp"
+      "/products/Pink Tower1.PNG",
+      "/products/Pink Tower2.PNG"
     ],
     "badges": [
       "Montessori",
@@ -4386,10 +4384,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/spindlebox.webp",
+    "image": "/products/spindlebox1.jpg",
     "gallery": [
-      "/products/spindlebox.webp",
-      "/products/spindlebox2.webp"
+      "/products/spindlebox1.jpg",
+      "/products/spindlebox2.jpg"
     ],
     "badges": [
       "Montessori",
@@ -4463,10 +4461,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/rodpegsteps.webp",
+    "image": "/products/rodstep1.PNG",
     "gallery": [
-      "/products/rodpegsteps.webp",
-      "/products/rodpegsteps2.webp"
+      "/products/rodstep1.PNG",
+      "/products/rodstep2.PNG"
     ],
     "badges": [
       "Montessori",
@@ -4540,10 +4538,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/balance-stones.webp",
+    "image": "/products/montstone.PNG",
     "gallery": [
-      "/products/balance-stones.webp",
-      "/products/balance-stones2.webp"
+      "/products/montstone.PNG",
+      "/products/montstone2.PNG"
     ],
     "badges": [
       "Montessori",
@@ -5039,11 +5037,11 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/minimasterchef.webp",
+    "image": "/products/minimasterchef.png",
     "gallery": [
-      "/products/minimasterchef.webp",
-      "/products/minimasterchef2.webp",
-      "/products/minimasterchef3.webp"
+      "/products/minimasterchef.png",
+      "/products/minimasterchef2.png"
+ 
     ],
     "badges": [
       "Play Kitchen",
@@ -5114,11 +5112,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/playkitchen-white.webp",
+    "image": "/products/wpkw.jpg",
     "gallery": [
-      "/products/playkitchen-white.webp",
-      "/products/playkitchen-white2.webp",
-      "/products/playkitchen-white3.webp"
+      "/products/wpkw.jpg"
+    
     ],
     "badges": [
       "Play Kitchen",
@@ -5206,11 +5203,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/playkitchen-dustypink.webp",
+    "image": "/products/wpkdp.jpg",
     "gallery": [
-      "/products/playkitchen-dustypink.webp",
-      "/products/playkitchen-dustypink2.webp",
-      "/products/playkitchen-dustypink3.webp"
+      "/products/wpkdp.jpg"
+      
     ],
     "badges": [
       "Play Kitchen",
@@ -5298,11 +5294,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/playkitchen-mintygrey.webp",
+    "image": "/products/wpkmg.jpg",
     "gallery": [
-      "/products/playkitchen-mintygrey.webp",
-      "/products/playkitchen-mintygrey2.webp",
-      "/products/playkitchen-mintygrey3.webp"
+      "/products/wpkmg.jpg"
+     
     ],
     "badges": [
       "Play Kitchen",
@@ -5469,11 +5464,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/woodland-chefs-play-kitchen.webp",
+    "image": "/products/woodlandkitchen.jpg",
     "gallery": [
-      "/products/woodland-chefs-play-kitchen.webp",
-      "/products/woodland-chefs-play-kitchen2.webp",
-      "/products/woodland-chefs-play-kitchen3.webp"
+      "/products/woodlandkitchen.jpg"
+     
     ],
     "badges": [
       "Play Kitchen",
@@ -5554,11 +5548,11 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/wooden-toy-pretend-play-kitchen.webp",
+    "image": "/products/pretendkitchen.webp",
     "gallery": [
-      "/products/wooden-toy-pretend-play-kitchen.webp",
-      "/products/wooden-toy-pretend-play-kitchen2.webp",
-      "/products/wooden-toy-pretend-play-kitchen3.webp"
+      "/products/pretendkitchen.webp",
+      "/products/pretendkitchen2.webp"
+      
     ],
     "badges": [
       "Play Kitchen",
@@ -5689,11 +5683,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/essential-play-kitchen-set-hood.webp",
+    "image": "/products/essentialset.PNG",
     "gallery": [
-      "/products/essential-play-kitchen-set-hood.webp",
-      "/products/essential-play-kitchen-set-hood2.webp",
-      "/products/essential-play-kitchen-set-hood3.webp"
+      "/products/essentialset.PNG"
+      
     ],
     "badges": [
       "Play Kitchen",
@@ -6035,11 +6028,11 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/charming-cottage-dollhouse.webp",
+    "image": "/products/charming.jpg",
     "gallery": [
-      "/products/charming-cottage-dollhouse.webp",
-      "/products/charming-cottage-dollhouse2.webp",
-      "/products/charming-cottage-dollhouse3.webp"
+      "/products/charming.jpg",
+      "/products/charming2.jpg"
+ 
     ],
     "badges": [
       "Dollhouse",
@@ -6213,11 +6206,11 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/play-tool-bench-warm-grey-blue.webp",
+    "image": "/products/playblue.JPG",
     "gallery": [
-      "/products/play-tool-bench-warm-grey-blue.webp",
-      "/products/play-tool-bench-warm-grey-blue2.webp",
-      "/products/play-tool-bench-warm-grey-blue3.webp"
+      "/products/playblue.JPG",
+      "/products/playgrey.JPG"
+   
     ],
     "badges": [
       "Tool Bench",
@@ -6438,11 +6431,10 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/monster-truck-garage-16-slots.webp",
+    "image": "/products/monstertruck3.jpg",
     "gallery": [
-      "/products/monster-truck-garage-16-slots.webp",
-      "/products/monster-truck-garage-16-slots2.webp",
-      "/products/monster-truck-garage-16-slots3.webp"
+      "/products/monstertruck3.jpg"
+      
     ],
     "badges": [
       "Toy Storage",
@@ -6509,11 +6501,11 @@
     "inStock": true,
     "rating": 4.8,
     "reviews": 0,
-    "image": "/products/monster-truck-garage-30-slots.webp",
+    "image": "/products/monstertruck.WEBP",
     "gallery": [
-      "/products/monster-truck-garage-30-slots.webp",
-      "/products/monster-truck-garage-30-slots2.webp",
-      "/products/monster-truck-garage-30-slots3.webp"
+      "/products/monstertruck2.WEBP",
+      "/products/monstertruck.WEBP"
+    
     ],
     "badges": [
       "Toy Storage",
